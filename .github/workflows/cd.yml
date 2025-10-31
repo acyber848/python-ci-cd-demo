@@ -27,4 +27,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: acyber/cd-pipeline
+          tags: acyber/cd-pipeline:latest
